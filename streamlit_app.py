@@ -10,7 +10,7 @@ streamlit.text('Cortado')
 
 
 streamlit.header('Food Menu')
-streamlit.text('Blueberry Scone')
-streamlit.text('Chocolate Chip Cookie')
-streamlit.text('Banana Bread')
-streamlit.text('Granola Bar')
+streamlit.text('🐔 Blueberry Scone')
+streamlit.text('🥑 Chocolate Chip Cookie')
+streamlit.text('🥗 Banana Bread')
+streamlit.text('🥣 Granola Bar')

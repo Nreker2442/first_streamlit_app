@@ -14,3 +14,5 @@ streamlit.text('🐔 Blueberry Scone')
 streamlit.text('🥑 Chocolate Chip Cookie')
 streamlit.text('🥗 Banana Bread')
 streamlit.text('🥣 Granola Bar')
+
+streamlit.title('🍌🥭 Build Your Own Smoothie Bowl 🥝🍇')
